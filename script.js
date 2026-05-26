@@ -98,8 +98,8 @@ function makeGuess() {
   updateGuessCounter();
   input.value = "";
 
-  // --- Unlimited Mode (5 arvauksen raja) ---
-  if (unlimitedMode) {
+ // --- Unlimited Mode (5 arvauksen raja) ---
+if (unlimitedMode) {
 
     // Oikein
     if (guessedPlayer.name === solution.name) {
@@ -127,7 +127,7 @@ function makeGuess() {
         pickNewSolution();
         return;
     }
-  }
+}
 
   // --- Daily Mode (8 arvauksen raja) ---
   if (guessedPlayer.name === solution.name) {
