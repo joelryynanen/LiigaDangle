@@ -1,0 +1,3764 @@
+[
+  {
+    "name": "Gustavs Dāvis Grigals",
+    "team": "SaiPa",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 28,
+    "number": 31,
+    "country": "LAT"
+  },
+  {
+    "name": "Ville-Veikko Hiltunen",
+    "team": "SaiPa",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 20,
+    "number": 1,
+    "country": "FIN"
+  },
+  {
+    "name": "Kari Piiroinen",
+    "team": "SaiPa",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 25,
+    "number": 30,
+    "country": "FIN"
+  },
+
+  {
+    "name": "Karri Aho",
+    "team": "SaiPa",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 24,
+    "number": 22,
+    "country": "FIN"
+  },
+  {
+    "name": "Santeri Airola",
+    "team": "SaiPa",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 26,
+    "number": 6,
+    "country": "FIN"
+  },
+  {
+    "name": "Brian Kramer",
+    "team": "SaiPa",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 26,
+    "number": 14,
+    "country": "USA"
+  },
+  {
+    "name": "Samuli Niinisaari",
+    "team": "SaiPa",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 28,
+    "number": 7,
+    "country": "FIN"
+  },
+  {
+    "name": "Andrew Peski",
+    "team": "SaiPa",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 29,
+    "number": 2,
+    "country": "CAN"
+  },
+  {
+    "name": "Saku Salminen",
+    "team": "SaiPa",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 27,
+    "number": 50,
+    "country": "FIN"
+  },
+  {
+    "name": "Vertti Svensk",
+    "team": "SaiPa",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 18,
+    "number": 17,
+    "country": "FIN"
+  },
+  {
+    "name": "Ondrej Trejbal",
+    "team": "SaiPa",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 27,
+    "number": 55,
+    "country": "CZE"
+  },
+
+  {
+    "name": "Samu Bau",
+    "team": "SaiPa",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 22,
+    "number": 12,
+    "country": "FIN"
+  },
+  {
+    "name": "Einar Emanuelsson",
+    "team": "SaiPa",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 29,
+    "number": 10,
+    "country": "SWE"
+  },
+  {
+    "name": "Petr Fridrich",
+    "team": "SaiPa",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 25,
+    "number": 11,
+    "country": "CZE"
+  },
+  {
+    "name": "Juuso Heikkilä",
+    "team": "SaiPa",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 26,
+    "number": 18,
+    "country": "FIN"
+  },
+  {
+    "name": "Otto Hokkanen",
+    "team": "SaiPa",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 22,
+    "number": 57,
+    "country": "FIN"
+  },
+  {
+    "name": "Aarne Intonen",
+    "team": "SaiPa",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 24,
+    "number": 28,
+    "country": "FIN"
+  },
+  {
+    "name": "Eero Klintrup",
+    "team": "SaiPa",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 23,
+    "number": 81,
+    "country": "FIN"
+  },
+  {
+    "name": "Veeti Moilanen",
+    "team": "SaiPa",
+    "position": "Hyökkääjä",
+    "shoots": "R",
+    "age": 20,
+    "number": 19,
+    "country": "FIN"
+  },
+  {
+    "name": "Janne Naukkarinen",
+    "team": "SaiPa",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 22,
+    "number": 70,
+    "country": "FIN"
+  },
+  {
+    "name": "Petrus Palmu",
+    "team": "SaiPa",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 28,
+    "number": 52,
+    "country": "FIN"
+  },
+  {
+    "name": "Mikko Perttu",
+    "team": "SaiPa",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 25,
+    "number": 34,
+    "country": "FIN"
+  },
+  {
+    "name": "Joonas Rajala",
+    "team": "SaiPa",
+    "position": "Hyökkääjä",
+    "shoots": "L",
+    "age": 18,
+    "number": 38,
+    "country": "FIN"
+  },
+  {
+    "name": "Miikka Salomäki",
+    "team": "SaiPa",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 33,
+    "number": 15,
+    "country": "FIN"
+  },
+  {
+    "name": "Patrik Siikanen",
+    "team": "SaiPa",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 26,
+    "number": 75,
+    "country": "FIN"
+  },
+  {
+    "name": "Miro Tauslahti",
+    "team": "SaiPa",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 22,
+    "number": 62,
+    "country": "FIN"
+  },
+  {
+    "name": "Nicholas Zabaneh",
+    "team": "SaiPa",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 25,
+    "number": 41,
+    "country": "CAN"
+  },
+  {
+    "name": "Anze Zezelj",
+    "team": "SaiPa",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 21,
+    "number": 92,
+    "country": "SLO"
+  },
+  {
+    "name": "Eetu Randelin",
+    "team": "KooKoo",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 24,
+    "number": 34,
+    "country": "FIN"
+  },
+  {
+    "name": "Ari Gröndahl",
+    "team": "KooKoo",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 36,
+    "number": 17,
+    "country": "FIN"
+  },
+  {
+    "name": "Kim Nousiainen",
+    "team": "KooKoo",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 25,
+    "number": 39,
+    "country": "FIN"
+  },
+  {
+    "name": "Niklas Nykyri",
+    "team": "KooKoo",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 20,
+    "number": 4,
+    "country": "FIN"
+  },
+  {
+    "name": "Arttu Pelli",
+    "team": "KooKoo",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 29,
+    "number": 3,
+    "country": "FIN"
+  },
+  {
+    "name": "Ville Puhakka",
+    "team": "KooKoo",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 26,
+    "number": 77,
+    "country": "FIN"
+  },
+  {
+    "name": "Jiri Pärssinen",
+    "team": "KooKoo",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 24,
+    "number": 7,
+    "country": "FIN"
+  },
+  {
+    "name": "Joona Riekkinen",
+    "team": "KooKoo",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 27,
+    "number": 6,
+    "country": "FIN"
+  },
+  {
+    "name": "Matej Belohlav",
+    "team": "KooKoo",
+    "position": "Sentteri",
+    "shoots": "R",
+    "age": 20,
+    "number": null,
+    "country": "CZE"
+  },
+  {
+    "name": "Matti Butkovskiy",
+    "team": "KooKoo",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 20,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Marcus Davidsson",
+    "team": "KooKoo",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 27,
+    "number": 70,
+    "country": "SWE"
+  },
+  {
+    "name": "Vilmos Galló",
+    "team": "KooKoo",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 29,
+    "number": 55,
+    "country": "HUN"
+  },
+  {
+    "name": "Ossi-Petteri Jaakola",
+    "team": "KooKoo",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 24,
+    "number": 15,
+    "country": "FIN"
+  },
+  {
+    "name": "Oskari Luoto",
+    "team": "KooKoo",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 24,
+    "number": 22,
+    "country": "FIN"
+  },
+  {
+    "name": "Tomas Mazura",
+    "team": "KooKoo",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 25,
+    "number": 11,
+    "country": "CZE"
+  },
+  {
+    "name": "Ville Meskanen",
+    "team": "KooKoo",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 30,
+    "number": 82,
+    "country": "FIN"
+  },
+  {
+    "name": "Veeti Miettinen",
+    "team": "KooKoo",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 24,
+    "number": 24,
+    "country": "FIN"
+  },
+  {
+    "name": "Manu Mäkelä",
+    "team": "KooKoo",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 21,
+    "number": 58,
+    "country": "FIN"
+  },
+  {
+    "name": "Akseli Mäkinen",
+    "team": "KooKoo",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 24,
+    "number": 27,
+    "country": "FIN"
+  },
+  {
+    "name": "Robert Rooba",
+    "team": "KooKoo",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 32,
+    "number": 88,
+    "country": "EST"
+  },
+  {
+    "name": "Miska Siikonen",
+    "team": "KooKoo",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 30,
+    "number": 71,
+    "country": "FIN"
+  },
+  {
+    "name": "Santeri Sulku",
+    "team": "KooKoo",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 21,
+    "number": 10,
+    "country": "FIN"
+  },
+  {
+    "name": "Roope Tossavainen",
+    "team": "KooKoo",
+    "position": "Hyökkääjä",
+    "shoots": "L",
+    "age": 21,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Samuel Valkeejärvi",
+    "team": "KooKoo",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 25,
+    "number": 20,
+    "country": "FIN"
+  },
+  {
+    "name": "Christian Heljanko",
+    "team": "Tappara",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 29,
+    "number": 30,
+    "country": "FIN"
+  },
+  {
+    "name": "William Gammals",
+    "team": "Tappara",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 18,
+    "number": 35,
+    "country": "FIN"
+  },
+  {
+    "name": "Juha Metsola",
+    "team": "Tappara",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 37,
+    "number": 77,
+    "country": "FIN"
+  },
+
+  {
+    "name": "Iivari Räsänen",
+    "team": "Tappara",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 25,
+    "number": 5,
+    "country": "FIN"
+  },
+  {
+    "name": "Jyrki Jokipakka",
+    "team": "Tappara",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 34,
+    "number": 23,
+    "country": "FIN"
+  },
+  {
+    "name": "Jesper Mattila",
+    "team": "Tappara",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 28,
+    "number": 26,
+    "country": "FIN"
+  },
+  {
+    "name": "Niclas Almari",
+    "team": "Tappara",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 28,
+    "number": 38,
+    "country": "FIN"
+  },
+  {
+    "name": "Joona Karvonen",
+    "team": "Tappara",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 20,
+    "number": 43,
+    "country": "FIN"
+  },
+  {
+    "name": "Juho Piiparinen",
+    "team": "Tappara",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 17,
+    "number": 57,
+    "country": "FIN"
+  },
+  {
+    "name": "Joni Tuulola",
+    "team": "Tappara",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 30,
+    "number": 63,
+    "country": "FIN"
+  },
+  {
+    "name": "Kasper Kulonummi",
+    "team": "Tappara",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 22,
+    "number": 72,
+    "country": "FIN"
+  },
+
+  {
+    "name": "Kasper Simontaival",
+    "team": "Tappara",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 24,
+    "number": 11,
+    "country": "FIN"
+  },
+  {
+    "name": "Ondřej Pavel",
+    "team": "Tappara",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 25,
+    "number": 17,
+    "country": "CZE"
+  },
+  {
+    "name": "Michael Lindqvist",
+    "team": "Tappara",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 31,
+    "number": 21,
+    "country": "SWE"
+  },
+  {
+    "name": "Aapeli Räsänen",
+    "team": "Tappara",
+    "position": "Sentteri",
+    "shoots": "R",
+    "age": 27,
+    "number": 22,
+    "country": "FIN"
+  },
+  {
+    "name": "Henrik Haapala",
+    "team": "Tappara",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 32,
+    "number": 25,
+    "country": "FIN"
+  },
+  {
+    "name": "Ville Väärälä",
+    "team": "Tappara",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 20,
+    "number": 34,
+    "country": "FIN"
+  },
+  {
+    "name": "Juuso Nykänen",
+    "team": "Tappara",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 22,
+    "number": 41,
+    "country": "FIN"
+  },
+  {
+    "name": "Otto Rauhala",
+    "team": "Tappara",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 31,
+    "number": 42,
+    "country": "FIN"
+  },
+  {
+    "name": "Emil Järventie",
+    "team": "Tappara",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 21,
+    "number": 52,
+    "country": "FIN"
+  },
+  {
+    "name": "Julius Mattila",
+    "team": "Tappara",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 28,
+    "number": 62,
+    "country": "FIN"
+  },
+  {
+    "name": "Benjamin Rautiainen",
+    "team": "Tappara",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 20,
+    "number": 78,
+    "country": "FIN"
+  },
+  {
+    "name": "Dylan Fabre",
+    "team": "Tappara",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 25,
+    "number": 87,
+    "country": "FRA"
+  },
+  {
+    "name": "Joachim Blichfeld",
+    "team": "Tappara",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 27,
+    "number": 88,
+    "country": "DEN"
+  },
+  {
+    "name": "Oliver Suvanto",
+    "team": "Tappara",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 17,
+    "number": 89,
+    "country": "FIN"
+  },
+  {
+    "name": "Juho Järvelä",
+    "team": "Tappara",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 22,
+    "number": 93,
+    "country": "FIN"
+  },
+  {
+    "name": "Vilho Vanhatalo",
+    "team": "Tappara",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 18,
+    "number": 94,
+    "country": "FIN"
+  },
+  {
+    "name": "Mantas Armalis",
+    "team": "Ilves",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 33,
+    "number": 40,
+    "country": "LTU"
+  },
+  {
+    "name": "Roni Kuukasjärvi",
+    "team": "Ilves",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 17,
+    "number": 44,
+    "country": "FIN"
+  },
+  {
+    "name": "Otto Latvala",
+    "team": "Ilves",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 26,
+    "number": 43,
+    "country": "FIN"
+  },
+  {
+    "name": "Arttu Niskanen",
+    "team": "Ilves",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 21,
+    "number": 5,
+    "country": "FIN"
+  },
+  {
+    "name": "John Nyberg",
+    "team": "Ilves",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 29,
+    "number": 28,
+    "country": "SWE"
+  },
+  {
+    "name": "Jarkko Parikka",
+    "team": "Ilves",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 28,
+    "number": 57,
+    "country": "FIN"
+  },
+  {
+    "name": "Samuel Suoniemi",
+    "team": "Ilves",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 16,
+    "number": null,
+    "country": "FIN"
+  },
+
+  {
+    "name": "Erik Borg",
+    "team": "Ilves",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 29,
+    "number": 11,
+    "country": "SWE"
+  },
+  {
+    "name": "Teemu Engberg",
+    "team": "Ilves",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 26,
+    "number": 22,
+    "country": "FIN"
+  },
+  {
+    "name": "Jakub Frolo",
+    "team": "Ilves",
+    "position": "Hyökkääjä",
+    "shoots": "R",
+    "age": 18,
+    "number": 33,
+    "country": "CZE"
+  },
+  {
+    "name": "Iivari Heikkinen",
+    "team": "Ilves",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 22,
+    "number": 25,
+    "country": "FIN"
+  },
+  {
+    "name": "Luke Henman",
+    "team": "Ilves",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 26,
+    "number": 92,
+    "country": "CAN"
+  },
+  {
+    "name": "Lukas Jasek",
+    "team": "Ilves",
+    "position": "Sentteri",
+    "shoots": "R",
+    "age": 28,
+    "number": 9,
+    "country": "CZE"
+  },
+  {
+    "name": "Jiko Laitinen",
+    "team": "Ilves",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 18,
+    "number": 19,
+    "country": "FIN"
+  },
+  {
+    "name": "Eemil Laurell",
+    "team": "Ilves",
+    "position": "Hyökkääjä",
+    "shoots": "R",
+    "age": 21,
+    "number": 27,
+    "country": "FIN"
+  },
+  {
+    "name": "Miska Liljeberg",
+    "team": "Ilves",
+    "position": "Hyökkääjä",
+    "shoots": "L",
+    "age": 17,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Jens Lööke",
+    "team": "Ilves",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 29,
+    "number": 29,
+    "country": "SWE"
+  },
+  {
+    "name": "Jalmari Melanen",
+    "team": "Ilves",
+    "position": "Hyökkääjä",
+    "shoots": "L",
+    "age": 18,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Elias Oksanen",
+    "team": "Ilves",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 16,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Max Poikela",
+    "team": "Ilves",
+    "position": "Hyökkääjä",
+    "shoots": "L",
+    "age": 16,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Samuli Ratinen",
+    "team": "Ilves",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 28,
+    "number": 17,
+    "country": "FIN"
+  },
+  {
+    "name": "Timi Teuho-Markkola",
+    "team": "Ilves",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 20,
+    "number": 38,
+    "country": "FIN"
+  },
+  {
+    "name": "Matic Török",
+    "team": "Ilves",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 22,
+    "number": 46,
+    "country": "SLO"
+  },
+  {
+    "name": "Otto Hannikainen",
+    "team": "JYP",
+    "position": "Maalivahti",
+    "shoots": "R",
+    "age": 19,
+    "number": 41,
+    "country": "FIN"
+  },
+  {
+    "name": "Aarni Riihimäki",
+    "team": "JYP",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 17,
+    "number": 34,
+    "country": "FIN"
+  },
+  {
+    "name": "Oskari Salminen",
+    "team": "JYP",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 26,
+    "number": 35,
+    "country": "FIN"
+  },
+  {
+    "name": "Oskari Setänen",
+    "team": "JYP",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 32,
+    "number": 34,
+    "country": "FIN"
+  },
+
+  {
+    "name": "Juuso Arola",
+    "team": "JYP",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 26,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Trent Bourque",
+    "team": "JYP",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 27,
+    "number": 63,
+    "country": "CAN"
+  },
+  {
+    "name": "Teemu Eronen",
+    "team": "JYP",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 35,
+    "number": 42,
+    "country": "FIN"
+  },
+  {
+    "name": "Roni Jokinen",
+    "team": "JYP",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 22,
+    "number": 18,
+    "country": "FIN"
+  },
+  {
+    "name": "Väinö Liikonen",
+    "team": "JYP",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 24,
+    "number": 4,
+    "country": "FIN"
+  },
+  {
+    "name": "Eetu Peltola",
+    "team": "JYP",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 26,
+    "number": 31,
+    "country": "FIN"
+  },
+  {
+    "name": "Malte Setkov",
+    "team": "JYP",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 27,
+    "number": null,
+    "country": "DEN"
+  },
+  {
+    "name": "Sami Vatanen",
+    "team": "JYP",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 34,
+    "number": 44,
+    "country": "FIN"
+  },
+  {
+    "name": "Ossi-Veikka Vuontisvaara",
+    "team": "JYP",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 21,
+    "number": 21,
+    "country": "FIN"
+  },
+  {
+    "name": "Veeti Väisänen",
+    "team": "JYP",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 20,
+    "number": null,
+    "country": "FIN"
+  },
+
+  {
+    "name": "Santeri Huovila",
+    "team": "JYP",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 21,
+    "number": 61,
+    "country": "FIN"
+  },
+  {
+    "name": "Elias Huttu",
+    "team": "JYP",
+    "position": "Hyökkääjä",
+    "shoots": "R",
+    "age": 20,
+    "number": 24,
+    "country": "FIN"
+  },
+  {
+    "name": "Otto Jaatinen",
+    "team": "JYP",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 22,
+    "number": 43,
+    "country": "FIN"
+  },
+  {
+    "name": "Julius Korjus",
+    "team": "JYP",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 25,
+    "number": 27,
+    "country": "FIN"
+  },
+  {
+    "name": "Jere Lassila",
+    "team": "JYP",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 22,
+    "number": 28,
+    "country": "FIN"
+  },
+  {
+    "name": "Topias Liljamo",
+    "team": "JYP",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 24,
+    "number": 16,
+    "country": "FIN"
+  },
+  {
+    "name": "Otto Mäkinen",
+    "team": "JYP",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 28,
+    "number": 17,
+    "country": "FIN"
+  },
+  {
+    "name": "Valtteri Ojantakanen",
+    "team": "JYP",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 25,
+    "number": 39,
+    "country": "FIN"
+  },
+  {
+    "name": "Harri Pesonen",
+    "team": "JYP",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 37,
+    "number": 82,
+    "country": "FIN"
+  },
+  {
+    "name": "Juuso Puustinen",
+    "team": "JYP",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 38,
+    "number": 71,
+    "country": "FIN"
+  },
+  {
+    "name": "Daniel Torgersson",
+    "team": "JYP",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 24,
+    "number": 40,
+    "country": "SWE"
+  },
+  {
+    "name": "Alexander True",
+    "team": "JYP",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 28,
+    "number": 7,
+    "country": "DEN"
+  },
+  {
+    "name": "Leevi Tukiainen",
+    "team": "JYP",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 26,
+    "number": 77,
+    "country": "FIN"
+  },
+  {
+    "name": "Aaro Vidgren",
+    "team": "JYP",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 28,
+    "number": 92,
+    "country": "FIN"
+  },
+  {
+    "name": "Patrik Kerkola",
+    "team": "KalPa",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 19,
+    "number": 31,
+    "country": "FIN"
+  },
+  {
+    "name": "Stefanos Lekkas",
+    "team": "KalPa",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 30,
+    "number": 40,
+    "country": "USA"
+  },
+
+  {
+    "name": "Hugo Gallet",
+    "team": "KalPa",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 28,
+    "number": 18,
+    "country": "FRA"
+  },
+  {
+    "name": "Mitja Jokinen",
+    "team": "KalPa",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 20,
+    "number": 4,
+    "country": "FIN"
+  },
+  {
+    "name": "Lukas Kanak",
+    "team": "KalPa",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 29,
+    "number": 97,
+    "country": "CZE"
+  },
+  {
+    "name": "Anton Karlsson",
+    "team": "KalPa",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 33,
+    "number": 3,
+    "country": "SWE"
+  },
+  {
+    "name": "Juuso Ketola",
+    "team": "KalPa",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 26,
+    "number": 89,
+    "country": "FIN"
+  },
+  {
+    "name": "Jesper Kotajärvi",
+    "team": "KalPa",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 18,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Lasse Lappalainen",
+    "team": "KalPa",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 36,
+    "number": 55,
+    "country": "FIN"
+  },
+  {
+    "name": "Joonas Lyytinen",
+    "team": "KalPa",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 31,
+    "number": 57,
+    "country": "FIN"
+  },
+  {
+    "name": "Veikka Mononen",
+    "team": "KalPa",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 20,
+    "number": 7,
+    "country": "FIN"
+  },
+  {
+    "name": "Mikael Niskanen",
+    "team": "KalPa",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 18,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Ville Ruotsalainen",
+    "team": "KalPa",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 22,
+    "number": 8,
+    "country": "FIN"
+  },
+  {
+    "name": "Joel Tarvainen",
+    "team": "KalPa",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 18,
+    "number": null,
+    "country": "FIN"
+  },
+
+  {
+    "name": "Cade Borchardt",
+    "team": "KalPa",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 27,
+    "number": 22,
+    "country": "USA"
+  },
+  {
+    "name": "Teemu Hartikainen",
+    "team": "KalPa",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 36,
+    "number": 70,
+    "country": "FIN"
+  },
+  {
+    "name": "Samuel Jung",
+    "team": "KalPa",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 20,
+    "number": 81,
+    "country": "CZE"
+  },
+  {
+    "name": "Konsta Kapanen",
+    "team": "KalPa",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 22,
+    "number": 42,
+    "country": "FIN"
+  },
+  {
+    "name": "Aleksi Klemetti",
+    "team": "KalPa",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 27,
+    "number": 20,
+    "country": "FIN"
+  },
+  {
+    "name": "Kristjan Kombe",
+    "team": "KalPa",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 26,
+    "number": 86,
+    "country": "EST"
+  },
+  {
+    "name": "Juuso Könönen",
+    "team": "KalPa",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 27,
+    "number": 41,
+    "country": "FIN"
+  },
+  {
+    "name": "Rasmus Miilunpohja",
+    "team": "KalPa",
+    "position": "Hyökkääjä",
+    "shoots": "L",
+    "age": 17,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Juuso Mäenpää",
+    "team": "KalPa",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 24,
+    "number": 9,
+    "country": "FIN"
+  },
+  {
+    "name": "Rasmus Pakarinen",
+    "team": "KalPa",
+    "position": "Hyökkääjä",
+    "shoots": "L",
+    "age": 19,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Jesper Piitulainen",
+    "team": "KalPa",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 34,
+    "number": 54,
+    "country": "FIN"
+  },
+  {
+    "name": "Jaakko Rissanen",
+    "team": "KalPa",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 36,
+    "number": 28,
+    "country": "FIN"
+  },
+  {
+    "name": "Joona Saarelainen",
+    "team": "KalPa",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 20,
+    "number": 12,
+    "country": "FIN"
+  },
+  {
+    "name": "Otto Somppi",
+    "team": "KalPa",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 28,
+    "number": 85,
+    "country": "FIN"
+  },
+  {
+    "name": "Elias Vilén",
+    "team": "KalPa",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 25,
+    "number": 91,
+    "country": "FIN"
+  },
+  {
+
+    "name": "Jan Bednar",
+    "team": "Ässät",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 23,
+    "number": 30,
+    "country": "CZE"
+  },
+  {
+    "name": "Pyry Lammi",
+    "team": "Ässät",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 18,
+    "number": 35,
+    "country": "FIN"
+  },
+
+  {
+    "name": "Aleksi Anttalainen",
+    "team": "Ässät",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 27,
+    "number": 3,
+    "country": "FIN"
+  },
+  {
+    "name": "Lasse Boelius",
+    "team": "Ässät",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 19,
+    "number": 25,
+    "country": "FIN"
+  },
+  {
+    "name": "Eemeli Heinilä",
+    "team": "Ässät",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 20,
+    "number": 23,
+    "country": "FIN"
+  },
+  {
+    "name": "Miro Karjalainen",
+    "team": "Ässät",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 30,
+    "number": 38,
+    "country": "FIN"
+  },
+  {
+    "name": "Rami Määttä",
+    "team": "Ässät",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 24,
+    "number": 37,
+    "country": "FIN"
+  },
+  {
+    "name": "Petteri Nikkilä",
+    "team": "Ässät",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 33,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Petteri Nurmi",
+    "team": "Ässät",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 24,
+    "number": 80,
+    "country": "FIN"
+  },
+  {
+    "name": "Petteri Riihinen",
+    "team": "Ässät",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 24,
+    "number": 55,
+    "country": "FIN"
+  },
+
+  {
+    "name": "Arttu Alasiurua",
+    "team": "Ässät",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 21,
+    "number": 92,
+    "country": "FIN"
+  },
+  {
+    "name": "Patrik Juhola",
+    "team": "Ässät",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 22,
+    "number": 19,
+    "country": "FIN"
+  },
+  {
+    "name": "Alexander Kim",
+    "team": "Ässät",
+    "position": "Hyökkääjä",
+    "shoots": "R",
+    "age": 20,
+    "number": 26,
+    "country": "KAZ"
+  },
+  {
+    "name": "Feetu Knihti",
+    "team": "Ässät",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 23,
+    "number": 86,
+    "country": "FIN"
+  },
+  {
+    "name": "Sakari Kostilainen",
+    "team": "Ässät",
+    "position": "Hyökkääjä",
+    "shoots": "L",
+    "age": 19,
+    "number": 63,
+    "country": "FIN"
+  },
+  {
+    "name": "Valtteri Lipiäinen",
+    "team": "Ässät",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 28,
+    "number": 9,
+    "country": "FIN"
+  },
+  {
+    "name": "Nestor Noiva",
+    "team": "Ässät",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 22,
+    "number": 16,
+    "country": "FIN"
+  },
+  {
+    "name": "Balázs Sebők",
+    "team": "Ässät",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 31,
+    "number": 14,
+    "country": "HUN"
+  },
+  {
+    "name": "Peter Tiivola",
+    "team": "Ässät",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 32,
+    "number": 74,
+    "country": "FIN"
+  },
+  {
+    "name": "Otso Ylitalo",
+    "team": "Ässät",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 21,
+    "number": 18,
+    "country": "FIN"
+  },
+  {
+    "name": "Eeli Äijälä",
+    "team": "Ässät",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 20,
+    "number": 24,
+    "country": "FIN"
+  }, 
+  {
+    "name": "Aleksi Karjalainen",
+    "team": "Kiekko-Espoo",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 20,
+    "number": 1,
+    "country": "FIN"
+  },
+  {
+    "name": "Sami Rajaniemi",
+    "team": "Kiekko-Espoo",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 33,
+    "number": 35,
+    "country": "FIN"
+  },
+  {
+    "name": "Petteri Rimpinen",
+    "team": "Kiekko-Espoo",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 20,
+    "number": 30,
+    "country": "FIN"
+  },
+
+  {
+    "name": "Ville Arkiomaa",
+    "team": "Kiekko-Espoo",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 21,
+    "number": 2,
+    "country": "FIN"
+  },
+  {
+    "name": "Connor Corcoran",
+    "team": "Kiekko-Espoo",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 25,
+    "number": null,
+    "country": "CAN"
+  },
+  {
+    "name": "Joni Jurmo",
+    "team": "Kiekko-Espoo",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 24,
+    "number": 7,
+    "country": "FIN"
+  },
+  {
+    "name": "Miro Keskitalo",
+    "team": "Kiekko-Espoo",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 30,
+    "number": 3,
+    "country": "FIN"
+  },
+  {
+    "name": "Kasper Kotkansalo",
+    "team": "Kiekko-Espoo",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 27,
+    "number": 55,
+    "country": "FIN"
+  },
+  {
+    "name": "Ville Lajunen",
+    "team": "Kiekko-Espoo",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 38,
+    "number": 47,
+    "country": "FIN"
+  },
+  {
+    "name": "Kristian Näkyvä",
+    "team": "Kiekko-Espoo",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 35,
+    "number": 51,
+    "country": "FIN"
+  },
+  {
+    "name": "Niklas Peltomäki",
+    "team": "Kiekko-Espoo",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 28,
+    "number": null,
+    "country": "FIN"
+  },
+
+  {
+    "name": "Mathias From",
+    "team": "Kiekko-Espoo",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 28,
+    "number": 77,
+    "country": "DEN"
+  },
+  {
+    "name": "Janne Hämäläinen",
+    "team": "Kiekko-Espoo",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 28,
+    "number": 28,
+    "country": "FIN"
+  },
+  {
+    "name": "Matti Järvinen",
+    "team": "Kiekko-Espoo",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 36,
+    "number": 71,
+    "country": "FIN"
+  },
+  {
+    "name": "Iikka Kangasniemi",
+    "team": "Kiekko-Espoo",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 31,
+    "number": 4,
+    "country": "FIN"
+  },
+  {
+    "name": "Juho Keinänen",
+    "team": "Kiekko-Espoo",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 20,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Jani Lajunen",
+    "team": "Kiekko-Espoo",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 35,
+    "number": 24,
+    "country": "FIN"
+  },
+  {
+    "name": "Elias Puolanne",
+    "team": "Kiekko-Espoo",
+    "position": "Hyökkääjä",
+    "shoots": "L",
+    "age": 20,
+    "number": 25,
+    "country": "FIN"
+  },
+  {
+    "name": "Jere Sallinen",
+    "team": "Kiekko-Espoo",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 35,
+    "number": 76,
+    "country": "FIN"
+  },
+  {
+    "name": "Eeli Salovaara",
+    "team": "Kiekko-Espoo",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 20,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Luca Santala",
+    "team": "Kiekko-Espoo",
+    "position": "Sentteri",
+    "shoots": "R",
+    "age": 16,
+    "number": null,
+    "country": "SUI"
+  },
+  {
+    "name": "Tuomas Suoniemi",
+    "team": "Kiekko-Espoo",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 20,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Aarne Talvitie",
+    "team": "Kiekko-Espoo",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 27,
+    "number": 17,
+    "country": "FIN"
+  },
+  {
+    "name": "Arttu Tuomaala",
+    "team": "Kiekko-Espoo",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 24,
+    "number": 78,
+    "country": "FIN"
+  },
+  {
+    "name": "Jere Väisänen",
+    "team": "Kiekko-Espoo",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 25,
+    "number": 16,
+    "country": "FIN"
+  },
+  {
+    "name": "Hugo Alnefelt",
+    "team": "HIFK",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 24,
+    "number": 60,
+    "country": "SWE"
+  },
+
+  {
+    "name": "Jesper Ahlroth",
+    "team": "HIFK",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 24,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Bruno Jalasti",
+    "team": "HIFK",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 20,
+    "number": 85,
+    "country": "FIN"
+  },
+  {
+    "name": "Ilari Melart",
+    "team": "HIFK",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 37,
+    "number": 11,
+    "country": "FIN"
+  },
+  {
+    "name": "Kasper Puutio",
+    "team": "HIFK",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 23,
+    "number": 67,
+    "country": "FIN"
+  },
+  {
+    "name": "Saku Salmela",
+    "team": "HIFK",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 36,
+    "number": 90,
+    "country": "FIN"
+  },
+  {
+    "name": "Viljami Savolainen",
+    "team": "HIFK",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 20,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Ossi Sippola",
+    "team": "HIFK",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 19,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Eelis Uronen",
+    "team": "HIFK",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 17,
+    "number": null,
+    "country": "FIN"
+  },
+
+  {
+    "name": "Niko Huuhtanen",
+    "team": "HIFK",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 22,
+    "number": 88,
+    "country": "FIN"
+  },
+  {
+    "name": "Atte Joki",
+    "team": "HIFK",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 18,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Frans Karjalahti",
+    "team": "HIFK",
+    "position": "Hyökkääjä",
+    "shoots": "L",
+    "age": 16,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Aatu Karjalainen",
+    "team": "HIFK",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 21,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Jori Lehterä",
+    "team": "HIFK",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 38,
+    "number": 21,
+    "country": "FIN"
+  },
+  {
+    "name": "Ottoville Leppänen",
+    "team": "HIFK",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 27,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Eetu Liukas",
+    "team": "HIFK",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 23,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Vincent Marleau",
+    "team": "HIFK",
+    "position": "Sentteri",
+    "shoots": "R",
+    "age": 26,
+    "number": 43,
+    "country": "CAN"
+  },
+  {
+    "name": "Daniel Mäkiaho",
+    "team": "HIFK",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 25,
+    "number": 71,
+    "country": "FIN"
+  },
+  {
+    "name": "Iiro Pakarinen",
+    "team": "HIFK",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 34,
+    "number": 81,
+    "country": "FIN"
+  },
+  {
+    "name": "Sebastian Repo",
+    "team": "HIFK",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 29,
+    "number": 29,
+    "country": "FIN"
+  },
+  {
+    "name": "Lauri Sinivuori",
+    "team": "HIFK",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 20,
+    "number": 42,
+    "country": "FIN"
+  },
+  {
+    "name": "Jere Somervuori",
+    "team": "HIFK",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 18,
+    "number": 54,
+    "country": "FIN"
+  },
+  {
+    "name": "Hannes Tiainen",
+    "team": "HIFK",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 20,
+    "number": 86,
+    "country": "FIN"
+  },
+  {
+    "name": "Anttoni Uronen",
+    "team": "HIFK",
+    "position": "Hyökkääjä",
+    "shoots": "L",
+    "age": 17,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Lassi Vanhatalo",
+    "team": "HIFK",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 28,
+    "number": 93,
+    "country": "FIN"
+  },
+  {
+    "name": "Jasu Louhikoski",
+    "team": "HPK",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 15,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Kim Saarinen",
+    "team": "HPK",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 19,
+    "number": 1,
+    "country": "FIN"
+  },
+  {
+    "name": "Max Väyrynen",
+    "team": "HPK",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 23,
+    "number": 30,
+    "country": "FIN"
+  },
+
+  {
+    "name": "Arturs Andzans",
+    "team": "HPK",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 24,
+    "number": 5,
+    "country": "LAT"
+  },
+  {
+    "name": "Hugo Gabrielson",
+    "team": "HPK",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 23,
+    "number": 16,
+    "country": "SWE"
+  },
+  {
+    "name": "Viljami Jokirinne",
+    "team": "HPK",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 22,
+    "number": 4,
+    "country": "FIN"
+  },
+  {
+    "name": "Akseli Ketonen",
+    "team": "HPK",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 20,
+    "number": 51,
+    "country": "FIN"
+  },
+  {
+    "name": "Miska Kukkonen",
+    "team": "HPK",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 25,
+    "number": 43,
+    "country": "FIN"
+  },
+  {
+    "name": "Gabriel Nitz",
+    "team": "HPK",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 19,
+    "number": null,
+    "country": "DOM"
+  },
+  {
+    "name": "Chad Nychuk",
+    "team": "HPK",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 25,
+    "number": 39,
+    "country": "CAN"
+  },
+  {
+    "name": "Garrett Pyke",
+    "team": "HPK",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 26,
+    "number": 7,
+    "country": "CAN"
+  },
+  {
+    "name": "Eetu Salmivuori",
+    "team": "HPK",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 17,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Eerik Wallenius",
+    "team": "HPK",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 20,
+    "number": 38,
+    "country": "FIN"
+  },
+
+  {
+    "name": "Vili Alitalo",
+    "team": "HPK",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 23,
+    "number": 8,
+    "country": "FIN"
+  },
+  {
+    "name": "Ethan De Jong",
+    "team": "HPK",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 26,
+    "number": 11,
+    "country": "CAN"
+  },
+  {
+    "name": "Anrei Hakulinen",
+    "team": "HPK",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 36,
+    "number": 94,
+    "country": "FIN"
+  },
+  {
+    "name": "Heikki Huttunen",
+    "team": "HPK",
+    "position": "Sentteri",
+    "shoots": "R",
+    "age": 27,
+    "number": 25,
+    "country": "FIN"
+  },
+  {
+    "name": "Harri Kainulainen",
+    "team": "HPK",
+    "position": "Sentteri",
+    "shoots": "R",
+    "age": 30,
+    "number": 64,
+    "country": "FIN"
+  },
+  {
+    "name": "Oliver Kopiloff",
+    "team": "HPK",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 20,
+    "number": 44,
+    "country": "FIN"
+  },
+  {
+    "name": "Olli Korhonen",
+    "team": "HPK",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 27,
+    "number": 15,
+    "country": "FIN"
+  },
+  {
+    "name": "Andrej Kukuca",
+    "team": "HPK",
+    "position": "Sentteri",
+    "shoots": "R",
+    "age": 26,
+    "number": 28,
+    "country": "SVK"
+  },
+  {
+    "name": "Connor MacEachern",
+    "team": "HPK",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 26,
+    "number": 29,
+    "country": "CAN"
+  },
+  {
+    "name": "Ilari Mäkinen",
+    "team": "HPK",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 17,
+    "number": 93,
+    "country": "FIN"
+  },
+  {
+    "name": "Raffael Nitz",
+    "team": "HPK",
+    "position": "Hyökkääjä",
+    "shoots": "R",
+    "age": 19,
+    "number": null,
+    "country": "DOM"
+  },
+  {
+    "name": "Sami Päivärinta",
+    "team": "HPK",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 22,
+    "number": 12,
+    "country": "FIN"
+  },
+  {
+    "name": "Brendan Ranford",
+    "team": "HPK",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 34,
+    "number": 95,
+    "country": "CAN"
+  },
+  {
+    "name": "Rasmus Tallqvist",
+    "team": "HPK",
+    "position": "Hyökkääjä",
+    "shoots": "L",
+    "age": 21,
+    "number": 19,
+    "country": "FIN"
+  },
+  {
+    "name": "Roope Vesterinen",
+    "team": "HPK",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 20,
+    "number": 10,
+    "country": "FIN"
+  },
+  {
+    "name": "Eetu Mäkiniemi",
+    "team": "TPS",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 27,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Aatu Niittymäki",
+    "team": "TPS",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 20,
+    "number": 1,
+    "country": "FIN"
+  },
+  {
+    "name": "Noa Vali",
+    "team": "TPS",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 21,
+    "number": null,
+    "country": "FIN"
+  },
+
+  {
+    "name": "Niklas Friman",
+    "team": "TPS",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 32,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Oliver Lauridsen",
+    "team": "TPS",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 37,
+    "number": 7,
+    "country": "DEN"
+  },
+  {
+    "name": "Sisu-Petteri Lehtonen",
+    "team": "TPS",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 22,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Ruben Rafkin",
+    "team": "TPS",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 24,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Tarmo Reunanen",
+    "team": "TPS",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 28,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Arttu Tuhkala",
+    "team": "TPS",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 20,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Eetu Vahalahti",
+    "team": "TPS",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 19,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Pyry Vilhunen",
+    "team": "TPS",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 19,
+    "number": 42,
+    "country": "FIN"
+  },
+
+  {
+    "name": "Lars Bryggman",
+    "team": "TPS",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 33,
+    "number": null,
+    "country": "SWE"
+  },
+  {
+    "name": "Joona Ikonen",
+    "team": "TPS",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 28,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Aatos Koivu",
+    "team": "TPS",
+    "position": "Sentteri",
+    "shoots": "R",
+    "age": 19,
+    "number": 9,
+    "country": "FIN"
+  },
+  {
+    "name": "Hannu Kuru",
+    "team": "TPS",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 33,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Vili Munkki",
+    "team": "TPS",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 24,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Joel Määttä",
+    "team": "TPS",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 23,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Kasper Pikkarainen",
+    "team": "TPS",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 19,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Veli-Matti Savinainen",
+    "team": "TPS",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 40,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Atte Uusikartano",
+    "team": "TPS",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 19,
+    "number": 90,
+    "country": "FIN"
+  },
+  {
+    "name": "Jeremi Virtanen",
+    "team": "TPS",
+    "position": "Hyökkääjä",
+    "shoots": "L",
+    "age": 18,
+    "number": 24,
+    "country": "FIN"
+  },
+  {
+    "name": "Sisu Yliniemi",
+    "team": "TPS",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 22,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Niklas Ylitalo",
+    "team": "TPS",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 26,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Niklas Rubin",
+    "team": "Kärpät",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 30,
+    "number": 41,
+    "country": "SWE"
+  },
+  {
+    "name": "Visa Vedenpää",
+    "team": "Kärpät",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 21,
+    "number": 31,
+    "country": "FIN"
+  },
+
+  {
+    "name": "Lenni Kokkonen",
+    "team": "Kärpät",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 17,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Arttu Paaso",
+    "team": "Kärpät",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 24,
+    "number": 25,
+    "country": "FIN"
+  },
+  {
+    "name": "Rasmus Rissanen",
+    "team": "Kärpät",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 34,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Veeti Ruotsalainen",
+    "team": "Kärpät",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 18,
+    "number": 4,
+    "country": "FIN"
+  },
+  {
+    "name": "Tuomas Salmela",
+    "team": "Kärpät",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 30,
+    "number": 61,
+    "country": "FIN"
+  },
+  {
+    "name": "Kasper Soini",
+    "team": "Kärpät",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 23,
+    "number": 9,
+    "country": "FIN"
+  },
+  {
+    "name": "Jiří Ticháček",
+    "team": "Kärpät",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 23,
+    "number": 26,
+    "country": "CZE"
+  },
+
+  {
+    "name": "Aleksi Antti-Roiko",
+    "team": "Kärpät",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 24,
+    "number": 18,
+    "country": "FIN"
+  },
+  {
+    "name": "Eemil Erholtz",
+    "team": "Kärpät",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 26,
+    "number": 37,
+    "country": "FIN"
+  },
+  {
+    "name": "Julius Hermonen",
+    "team": "Kärpät",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 29,
+    "number": 59,
+    "country": "FIN"
+  },
+  {
+    "name": "Roni Hirvonen",
+    "team": "Kärpät",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 24,
+    "number": 33,
+    "country": "FIN"
+  },
+  {
+    "name": "Luukas Jurvelin",
+    "team": "Kärpät",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 18,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Matyas Kantner",
+    "team": "Kärpät",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 27,
+    "number": 93,
+    "country": "CZE"
+  },
+  {
+    "name": "Eetu Koivistoinen",
+    "team": "Kärpät",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 30,
+    "number": 31,
+    "country": "FIN"
+  },
+  {
+    "name": "Maxim Korpimäki",
+    "team": "Kärpät",
+    "position": "Hyökkääjä",
+    "shoots": "L",
+    "age": 22,
+    "number": 80,
+    "country": "FIN"
+  },
+  {
+    "name": "Wiktor Nilsson",
+    "team": "Kärpät",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 24,
+    "number": null,
+    "country": "SWE"
+  },
+  {
+    "name": "Andreas Okany",
+    "team": "Kärpät",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 24,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Eetu Päkkilä",
+    "team": "Kärpät",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 26,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Tuukka Tieksola",
+    "team": "Kärpät",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 24,
+    "number": 8,
+    "country": "FIN"
+  },
+  {
+    "name": "Tommi Tikka",
+    "team": "Kärpät",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 30,
+    "number": 19,
+    "country": "FIN"
+  },
+  {
+    "name": "Nooa Viuhkola",
+    "team": "Kärpät",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 19,
+    "number": 21,
+    "country": "FIN"
+  },
+  {
+    "name": "Matthieu Herpin",
+    "team": "Jukurit",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 22,
+    "number": 1,
+    "country": "FRA"
+  },
+
+  {
+    "name": "Bogdans Hodass",
+    "team": "Jukurit",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 23,
+    "number": 27,
+    "country": "LAT"
+  },
+  {
+    "name": "Niko Korkola",
+    "team": "Jukurit",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 20,
+    "number": 53,
+    "country": "FIN"
+  },
+  {
+    "name": "Arttu Kärki",
+    "team": "Jukurit",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 21,
+    "number": 33,
+    "country": "FIN"
+  },
+  {
+    "name": "Elias Ruusu",
+    "team": "Jukurit",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 24,
+    "number": 36,
+    "country": "FIN"
+  },
+  {
+    "name": "Eemeli Saari",
+    "team": "Jukurit",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 23,
+    "number": 70,
+    "country": "FIN"
+  },
+  {
+    "name": "Patrik Satosaari",
+    "team": "Jukurit",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 24,
+    "number": 8,
+    "country": "FIN"
+  },
+  {
+    "name": "Alberts Smits",
+    "team": "Jukurit",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 18,
+    "number": 23,
+    "country": "LAT"
+  },
+  {
+    "name": "Andrej Sustr",
+    "team": "Jukurit",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 35,
+    "number": 26,
+    "country": "CZE"
+  },
+  {
+    "name": "Luka Tiihonen",
+    "team": "Jukurit",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 23,
+    "number": 19,
+    "country": "FIN"
+  },
+
+  {
+    "name": "Justin Addamo",
+    "team": "Jukurit",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 27,
+    "number": 20,
+    "country": "FRA"
+  },
+  {
+    "name": "Verneri Ahonen",
+    "team": "Jukurit",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 23,
+    "number": 17,
+    "country": "FIN"
+  },
+  {
+    "name": "Rasmus Baggström",
+    "team": "Jukurit",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 19,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Louis Boudon",
+    "team": "Jukurit",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 27,
+    "number": 40,
+    "country": "FRA"
+  },
+  {
+    "name": "Aaro Chrons",
+    "team": "Jukurit",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 21,
+    "number": 57,
+    "country": "FIN"
+  },
+  {
+    "name": "Connor Ford",
+    "team": "Jukurit",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 28,
+    "number": 16,
+    "country": "USA"
+  },
+  {
+    "name": "Jiro Frilander",
+    "team": "Jukurit",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 21,
+    "number": 96,
+    "country": "FIN"
+  },
+  {
+    "name": "Aaron Hakala",
+    "team": "Jukurit",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 21,
+    "number": 9,
+    "country": "FIN"
+  },
+  {
+    "name": "Jacob Hayhurst",
+    "team": "Jukurit",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 29,
+    "number": 15,
+    "country": "CAN"
+  },
+  {
+    "name": "Bence Horváth",
+    "team": "Jukurit",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 22,
+    "number": 93,
+    "country": "HUN"
+  },
+  {
+    "name": "Elias Koponen",
+    "team": "Jukurit",
+    "position": "Hyökkääjä",
+    "shoots": "L",
+    "age": 23,
+    "number": 28,
+    "country": "FIN"
+  },
+  {
+    "name": "Jesper Olofsson",
+    "team": "Jukurit",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 34,
+    "number": 92,
+    "country": "SWE"
+  },
+  {
+    "name": "Thomas Olsen",
+    "team": "Jukurit",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 30,
+    "number": 10,
+    "country": "NOR"
+  },
+  {
+    "name": "Oskari Remes",
+    "team": "Jukurit",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 21,
+    "number": 6,
+    "country": "FIN"
+  },
+  {
+    "name": "Viljam Sandvik",
+    "team": "Jukurit",
+    "position": "Sentteri",
+    "shoots": "R",
+    "age": 23,
+    "number": 18,
+    "country": "FIN"
+  },
+  {
+    "name": "Aleksi Sinkkonen",
+    "team": "Jukurit",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 23,
+    "number": 82,
+    "country": "FIN"
+  },
+  {
+    "name": "Jeremi Tammela",
+    "team": "Jukurit",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 22,
+    "number": 89,
+    "country": "FIN"
+  },
+  {
+    "name": "Natan Teshome",
+    "team": "Jukurit",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 19,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Verner Valojärvi",
+    "team": "Jukurit",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 20,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Patrik Bartosak",
+    "team": "Pelicans",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 33,
+    "number": 32,
+    "country": "CZE"
+  },
+
+  {
+    "name": "Johannes Johannesen",
+    "team": "Pelicans",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 29,
+    "number": 4,
+    "country": "NOR"
+  },
+  {
+    "name": "Michal Jordán",
+    "team": "Pelicans",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 35,
+    "number": 47,
+    "country": "CZE"
+  },
+  {
+    "name": "Mikko Kousa",
+    "team": "Pelicans",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 38,
+    "number": 44,
+    "country": "FIN"
+  },
+  {
+    "name": "Onni Käyhkö",
+    "team": "Pelicans",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 23,
+    "number": 77,
+    "country": "FIN"
+  },
+  {
+    "name": "Einari Luhanka",
+    "team": "Pelicans",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 26,
+    "number": 83,
+    "country": "FIN"
+  },
+  {
+    "name": "Daniel Nieminen",
+    "team": "Pelicans",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 20,
+    "number": 87,
+    "country": "FIN"
+  },
+  {
+    "name": "Valtteri Nurmi",
+    "team": "Pelicans",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 21,
+    "number": 84,
+    "country": "FIN"
+  },
+
+  {
+    "name": "Oskars Batna",
+    "team": "Pelicans",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 31,
+    "number": 95,
+    "country": "LAT"
+  },
+  {
+    "name": "Aidan Dudas",
+    "team": "Pelicans",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 25,
+    "number": 37,
+    "country": "CAN"
+  },
+  {
+    "name": "Christoffer Forsberg",
+    "team": "Pelicans",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 32,
+    "number": 23,
+    "country": "SWE"
+  },
+  {
+    "name": "Liam Hawel",
+    "team": "Pelicans",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 27,
+    "number": null,
+    "country": "CAN"
+  },
+  {
+    "name": "Sakke Hämäläinen",
+    "team": "Pelicans",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 27,
+    "number": 12,
+    "country": "FIN"
+  },
+  {
+    "name": "Roni Karvinen",
+    "team": "Pelicans",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 23,
+    "number": 10,
+    "country": "FIN"
+  },
+  {
+    "name": "Anton Kettunen",
+    "team": "Pelicans",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 19,
+    "number": 82,
+    "country": "FIN"
+  },
+  {
+    "name": "Eerik Kolehmainen",
+    "team": "Pelicans",
+    "position": "Hyökkääjä",
+    "shoots": "L",
+    "age": 19,
+    "number": 39,
+    "country": "FIN"
+  },
+  {
+    "name": "Joona Kumpula",
+    "team": "Pelicans",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 23,
+    "number": 96,
+    "country": "FIN"
+  },
+  {
+    "name": "Onni Lind",
+    "team": "Pelicans",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 21,
+    "number": 27,
+    "country": "FIN"
+  },
+  {
+    "name": "Niklas Virtanen",
+    "team": "Pelicans",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 26,
+    "number": 92,
+    "country": "FIN"
+  },
+  {
+    "name": "Lukas Zetterberg",
+    "team": "Pelicans",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 29,
+    "number": 28,
+    "country": "SWE"
+  },
+  {
+    "name": "Masi Härkönen",
+    "team": "Sport",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 19,
+    "number": 53,
+    "country": "FIN"
+  },
+  {
+    "name": "Jesse Juntunen",
+    "team": "Sport",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 17,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Joni Ortio",
+    "team": "Sport",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 35,
+    "number": 32,
+    "country": "FIN"
+  },
+
+  {
+    "name": "Eric Bürger",
+    "team": "Sport",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 20,
+    "number": 28,
+    "country": "SWE"
+  },
+  {
+    "name": "Kalle Ervasti",
+    "team": "Sport",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 23,
+    "number": 7,
+    "country": "FIN"
+  },
+  {
+    "name": "Theodor Johnsson",
+    "team": "Sport",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 23,
+    "number": 16,
+    "country": "SWE"
+  },
+  {
+    "name": "Kalle Kangas",
+    "team": "Sport",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 21,
+    "number": 6,
+    "country": "FIN"
+  },
+  {
+    "name": "Miika Koivisto",
+    "team": "Sport",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 35,
+    "number": 55,
+    "country": "FIN"
+  },
+  {
+    "name": "Eetu Koivunen",
+    "team": "Sport",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 21,
+    "number": 44,
+    "country": "FIN"
+  },
+  {
+    "name": "Max Laatikainen",
+    "team": "Sport",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 17,
+    "number": 4,
+    "country": "FIN"
+  },
+  {
+    "name": "Jasper Valtanen",
+    "team": "Sport",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 22,
+    "number": 77,
+    "country": "FIN"
+  },
+  {
+    "name": "Niklas Vatanen",
+    "team": "Sport",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 19,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Valtteri Viljanen",
+    "team": "Sport",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 32,
+    "number": 8,
+    "country": "FIN"
+  },
+  {
+    "name": "Santeri Väistö",
+    "team": "Sport",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 17,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Emil Vänninen",
+    "team": "Sport",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 19,
+    "number": null,
+    "country": "FIN"
+  },
+
+  {
+    "name": "Charles Bertrand",
+    "team": "Sport",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 35,
+    "number": 3,
+    "country": "FRA"
+  },
+  {
+    "name": "George Diaco",
+    "team": "Sport",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 24,
+    "number": 17,
+    "country": "CAN"
+  },
+  {
+    "name": "Tim Ekman",
+    "team": "Sport",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 20,
+    "number": 18,
+    "country": "FIN"
+  },
+  {
+    "name": "Karlis Flugins",
+    "team": "Sport",
+    "position": "Hyökkääjä",
+    "shoots": "R",
+    "age": 18,
+    "number": null,
+    "country": "LAT"
+  },
+  {
+    "name": "Philip Granath",
+    "team": "Sport",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 23,
+    "number": 86,
+    "country": "NOR"
+  },
+  {
+    "name": "Lari Heikkinen",
+    "team": "Sport",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 26,
+    "number": 63,
+    "country": "FIN"
+  },
+  {
+    "name": "Oliver Hult",
+    "team": "Sport",
+    "position": "Hyökkääjä",
+    "shoots": "L",
+    "age": 19,
+    "number": 21,
+    "country": "FIN"
+  },
+  {
+    "name": "Matti Härmä",
+    "team": "Sport",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 21,
+    "number": 72,
+    "country": "FIN"
+  },
+  {
+    "name": "Waltteri Koivunen",
+    "team": "Sport",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 20,
+    "number": 28,
+    "country": "FIN"
+  },
+  {
+    "name": "Eetu Levänen",
+    "team": "Sport",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 21,
+    "number": 24,
+    "country": "FIN"
+  },
+  {
+    "name": "Kalle Miketinac",
+    "team": "Sport",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 27,
+    "number": 80,
+    "country": "SWE"
+  },
+  {
+    "name": "Elias Mourujärvi",
+    "team": "Sport",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 21,
+    "number": 59,
+    "country": "FIN"
+  },
+  {
+    "name": "Viljami Nieminen",
+    "team": "Sport",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 24,
+    "number": 71,
+    "country": "FIN"
+  },
+  {
+    "name": "Benjamin Pietilä",
+    "team": "Sport",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 20,
+    "number": 10,
+    "country": "FIN"
+  },
+  {
+    "name": "Anton Stråka",
+    "team": "Sport",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 28,
+    "number": 12,
+    "country": "FIN"
+  },
+  {
+    "name": "Samuel Timonen",
+    "team": "Sport",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 27,
+    "number": 18,
+    "country": "FIN"
+  },
+  {
+    "name": "Waltteri Toivainen",
+    "team": "Sport",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 19,
+    "number": 8,
+    "country": "FIN"
+  },
+  {
+    "name": "Isak Walther",
+    "team": "Sport",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 24,
+    "number": 22,
+    "country": "SWE"
+  },
+  {
+    "name": "Olle Eriksson Ek",
+    "team": "Jokerit",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 26,
+    "number": null,
+    "country": "SWE"
+  },
+  {
+    "name": "Sisu Heikkeri",
+    "team": "Jokerit",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 22,
+    "number": 37,
+    "country": "FIN"
+  },
+  {
+    "name": "Lukas Selin",
+    "team": "Jokerit",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 20,
+    "number": 30,
+    "country": "FIN"
+  },
+  {
+    "name": "Veini Vehviläinen",
+    "team": "Jokerit",
+    "position": "Maalivahti",
+    "shoots": "L",
+    "age": 29,
+    "number": 35,
+    "country": "FIN"
+  },
+
+  {
+    "name": "Aleksi Elorinne",
+    "team": "Jokerit",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 36,
+    "number": 23,
+    "country": "FIN"
+  },
+  {
+    "name": "Saku Forsblom",
+    "team": "Jokerit",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 28,
+    "number": 47,
+    "country": "FIN"
+  },
+  {
+    "name": "Olli Juolevi",
+    "team": "Jokerit",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 28,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Max Krogdahl",
+    "team": "Jokerit",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 27,
+    "number": null,
+    "country": "NOR"
+  },
+  {
+    "name": "Oskari Manninen",
+    "team": "Jokerit",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 35,
+    "number": 41,
+    "country": "FIN"
+  },
+  {
+    "name": "Valtteri Pulli",
+    "team": "Jokerit",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 25,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Oliver Tuhkanen",
+    "team": "Jokerit",
+    "position": "Pakki",
+    "shoots": "R",
+    "age": 25,
+    "number": 73,
+    "country": "FIN"
+  },
+  {
+    "name": "Miks Tumānovs",
+    "team": "Jokerit",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 24,
+    "number": 12,
+    "country": "LAT"
+  },
+  {
+    "name": "Riku Tuomola",
+    "team": "Jokerit",
+    "position": "Pakki",
+    "shoots": "L",
+    "age": 23,
+    "number": 52,
+    "country": "FIN"
+  },
+
+  {
+    "name": "Patrick Curry",
+    "team": "Jokerit",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 30,
+    "number": null,
+    "country": "USA"
+  },
+  {
+    "name": "Alexander Forslund",
+    "team": "Jokerit",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 24,
+    "number": 22,
+    "country": "FIN"
+  },
+  {
+    "name": "Maxime Fortier",
+    "team": "Jokerit",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 28,
+    "number": null,
+    "country": "CAN"
+  },
+  {
+    "name": "Jere Henriksson",
+    "team": "Jokerit",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 25,
+    "number": 74,
+    "country": "FIN"
+  },
+  {
+    "name": "Markus Hännikäinen",
+    "team": "Jokerit",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 33,
+    "number": 33,
+    "country": "FIN"
+  },
+  {
+    "name": "Antti Kalapudas",
+    "team": "Jokerit",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 29,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Bruno Kallio",
+    "team": "Jokerit",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 19,
+    "number": 29,
+    "country": "FIN"
+  },
+  {
+    "name": "Emil Kuusla",
+    "team": "Jokerit",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 21,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Rasmus Lahnaviik",
+    "team": "Jokerit",
+    "position": "Laituri",
+    "shoots": "R",
+    "age": 24,
+    "number": 20,
+    "country": "FIN"
+  },
+  {
+    "name": "Jesse Liuksiala",
+    "team": "Jokerit",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 26,
+    "number": 14,
+    "country": "FIN"
+  },
+  {
+    "name": "Aleksi Mustonen",
+    "team": "Jokerit",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 31,
+    "number": 92,
+    "country": "FIN"
+  },
+  {
+    "name": "Miro Nalli",
+    "team": "Jokerit",
+    "position": "Laituri",
+    "shoots": "L",
+    "age": 27,
+    "number": 19,
+    "country": "FIN"
+  },
+  {
+    "name": "Henri Nikkanen",
+    "team": "Jokerit",
+    "position": "Sentteri",
+    "shoots": "L",
+    "age": 25,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Kristo Pitkänen",
+    "team": "Jokerit",
+    "position": "Sentteri",
+    "shoots": "R",
+    "age": 21,
+    "number": null,
+    "country": "FIN"
+  },
+  {
+    "name": "Oliver Suni",
+    "team": "Jokerit",
+    "position": "Hyökkääjä",
+    "shoots": "R",
+    "age": 24,
+    "number": 40,
+    "country": "FIN"
+  },
+{
+  "name": "Patrik Virta",
+  "team": "Jokerit",
+  "position": "Sentteri",
+  "shoots": "R"
+}
+]
