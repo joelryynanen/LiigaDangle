@@ -98,7 +98,7 @@ function makeGuess() {
   updateGuessCounter();
   input.value = "";
 
- // --- Unlimited Mode (5 arvauksen raja) ---
+// --- Unlimited Mode (5 arvauksen raja) ---
 if (unlimitedMode) {
 
     // Oikein
@@ -113,7 +113,7 @@ if (unlimitedMode) {
 
     // Väärin, mutta ei vielä 5 yritystä → ei ilmoitusta, ei paljastusta
     if (guessCount < unlimitedMaxGuesses) {
-        return;
+        // EI returnia tähän!
     }
 
     // 5. väärä → nyt paljastetaan oikea
@@ -127,6 +127,8 @@ if (unlimitedMode) {
         pickNewSolution();
         return;
     }
+
+    return;
 }
 
   // --- Daily Mode (8 arvauksen raja) ---
