@@ -100,24 +100,33 @@ function makeGuess() {
 
   // --- Unlimited Mode (5 arvauksen raja) ---
   if (unlimitedMode) {
+
+    // Oikein
     if (guessedPlayer.name === solution.name) {
-      unlimitedStreak++;
-      updateStreakDisplay();
-      alert("Oikein! Oikein arvattua pelaajaa putkeen: " + unlimitedStreak);
-    } else {
-      alert("Väärin! Oikea oli: " + solution.name + ". Streak nollattu.");
-      unlimitedStreak = 0;
-      updateStreakDisplay();
+        unlimitedStreak++;
+        updateStreakDisplay();
+
+        resetBoard();
+        pickNewSolution();
+        return;
     }
 
-    if (guessCount >= unlimitedMaxGuesses) {
-      alert("5 arvauksen raja täynnä! Uusi pelaaja arvottu.");
-      resetBoard();
-      pickNewSolution();
-      return;
+    // Väärin, mutta ei vielä 5 yritystä → ei ilmoitusta, ei paljastusta
+    if (guessCount < unlimitedMaxGuesses) {
+        return;
     }
 
-    return;
+    // 5. väärä → nyt paljastetaan oikea
+    if (guessCount === unlimitedMaxGuesses) {
+        alert("Oikea vastaus oli: " + solution.name);
+
+        unlimitedStreak = 0;
+        updateStreakDisplay();
+
+        resetBoard();
+        pickNewSolution();
+        return;
+    }
   }
 
   // --- Daily Mode (8 arvauksen raja) ---
@@ -160,7 +169,7 @@ function updateStreakDisplay() {
   }
 }
 
-// --- Resetointi unlimitedissä ---
+// --- Resetointi ---
 function resetBoard() {
   document.getElementById("guesses").innerHTML = "";
   headerAdded = false;
