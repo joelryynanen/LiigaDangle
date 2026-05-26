@@ -78,10 +78,8 @@ function makeGuess() {
 
   addGuessRow(guessedPlayer);
 
-  // --- Arvausmäärän kasvu ---
   guessCount++;
 
-  // --- Laskurin päivitys ---
   const counter = document.getElementById("guessCounter");
   if (counter) counter.textContent = "Arvaukset: " + guessCount + " / " + maxGuesses;
 
@@ -159,12 +157,12 @@ input.addEventListener("input", () => {
   if (text.length === 0) {
     suggestionsBox.style.display = "none";
     return;
-  } const matches = players.filter(p =>
-  p.name.toLowerCase().includes(text)
-);
+  }
 
+  const matches = players.filter(p =>
+    p.name.toLowerCase().includes(text)
+  );
 
- 
   suggestionsBox.innerHTML = "";
 
   if (matches.length === 0) {
@@ -201,3 +199,4 @@ document.addEventListener("keydown", function(e) {
     makeGuess();
   }
 });
+
