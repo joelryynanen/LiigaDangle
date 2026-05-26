@@ -159,12 +159,12 @@ input.addEventListener("input", () => {
   if (text.length === 0) {
     suggestionsBox.style.display = "none";
     return;
-  }
+  } const matches = players.filter(p =>
+  p.name.toLowerCase().includes(text)
+);
 
-  const matches = players.filter(p =>
-    p.name.toLowerCase().startsWith(text)
-  );
 
+ 
   suggestionsBox.innerHTML = "";
 
   if (matches.length === 0) {

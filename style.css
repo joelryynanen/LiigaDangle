@@ -101,4 +101,52 @@ button {
   margin-bottom: 10px;
   text-align: center;
 }
+/* --- Mobiilinäkymä --- */
+@media (max-width: 600px) {
+
+  /* Keskitetään sisältö */
+  body {
+    padding: 10px;
+    font-size: 16px;
+  }
+
+  /* Input ja nappi isommiksi */
+  #guessInput {
+    width: 100%;
+    font-size: 18px;
+    padding: 10px;
+  }
+
+  button {
+    width: 100%;
+    font-size: 18px;
+    padding: 12px;
+    margin-top: 10px;
+  }
+
+  /* Arvausrivit pystysuuntaan */
+  .guess-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 6px;
+    padding: 10px;
+    font-size: 14px;
+  }
+
+  /* Ehdotuslaatikko koko leveydelle */
+  #suggestions {
+    width: 100%;
+    font-size: 16px;
+  }
+
+  .suggestion-item {
+    padding: 10px;
+  }
+
+  /* Laskuri isommaksi */
+  #guessCounter {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+}
 
