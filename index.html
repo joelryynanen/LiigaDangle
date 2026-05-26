@@ -2,41 +2,70 @@
 <html lang="fi">
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8">
+<title>LIIGA DANGLE</title>
 
-    <meta charset="UTF-8">
-    <title>LIIGA DANGLE</title>
+<link rel="stylesheet" href="style.css">
 
-    <link rel="stylesheet" href="style.css">
+<style>
+  /* Keskitetyt moodinapit */
+  #modeButtons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 15px;
+  }
+
+  #modeButtons button {
+    padding: 8px 14px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+</style>
+
 </head>
 <body>
 
-    <h1>Liiga Dangle</h1>
+<h1>Liiga Dangle</h1>
 
-    <div class="info-box">
-      <p>  
-        Arvaa päivän Liiga-pelaaja!
-        Jokainen vastaus antaa sinulle uusia vinkkejä kohti oikeaa vastausta!
-        Peli on suomalainen Liigaversio sivun dangle.games NHL-arvuuttelusta!
-        Mysteeripelaaja päivittyy joka päivä.
-      </p>
-    </div>
+<div class="info-box">
+  <p>
+    Arvaa Liiga-pelaaja!
+    Jokainen vastaus antaa sinulle uusia vinkkejä kohti oikeaa vastausta!
+    Peli on suomalainen Liigaversio sivun dangle.games NHL-arvuuttelusta!
+    Voit valita alta, haluatko arvuutella kaikille samaa päivän liigapelaajaa
+    vai pelata loputonta tilaa ja kasvattaa striikkiä!
+  </p>
+</div>
 
-    <!-- KESKITETTY ARVAUSALUE -->
-    <div class="guess-container">
-        <input id="guessInput" type="text" placeholder="Arvaa pelaaja">
-        <div id="suggestions" class="suggestions-box"></div>
-        <button onclick="makeGuess()">Arvaa</button>
-    </div>
+<!-- Moodinapit -->
+<div id="modeButtons">
+  <button id="dailyBtn">Päivän pelaaja!</button>
+  <button id="unlimitedBtn">Loputon tila</button>
+</div>
+
+<!-- Keskitetty arvausalue -->
+<div class="guess-container">
+    <input id="guessInput" type="text" placeholder="Arvaa pelaaja">
+    <div id="suggestions" class="suggestions-box"></div>
+    <button onclick="makeGuess()">Arvaa</button>
+</div>
+
+<div id="streakContainer">
+  <div id="dailyStreakBox">Daily streak: 0</div>
+  <div id="unlimitedStreakBox">Unlimited streak: 0</div>
+</div>
+
 <div id="guessCounter"></div>
-    <div id="guesses"></div>
+<div id="guesses"></div>
 
-    <script src="script.js?v=1"></script>
+<script src="script.js?v=1"></script>
 
-    <div class="info-box">
-      <p>
-        Kokoonpano päivitetty viimeksi 26.5.2026.
-      </p>
-    </div>
+<div class="info-box">
+  <p>
+    Kokoonpano päivitetty viimeksi 26.5.2026.
+  </p>
+</div>
 
 </body>
 </html>

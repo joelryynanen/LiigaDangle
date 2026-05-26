@@ -3,18 +3,26 @@ let players = [];
 let solution = null;
 let headerAdded = false;
 
-// --- Arvauslaskuri ---
+// --- Arvausrajat ---
 let guessCount = 0;
-const maxGuesses = 8;
+const dailyMaxGuesses = 8;
+const unlimitedMaxGuesses = 5;
 
-// --- Autocomplete tarvitsee nämä ---
+// --- Pelimoodit ---
+let unlimitedMode = false;
+
+// --- Streakit ---
+let dailyStreak = Number(localStorage.getItem("dailyStreak")) || 0;
+let unlimitedStreak = 0;
+
+// --- Autocomplete ---
 const input = document.getElementById("guessInput");
 const suggestionsBox = document.getElementById("suggestions");
 
 // --- Laskurin alustus ---
 document.addEventListener("DOMContentLoaded", () => {
-  const counter = document.getElementById("guessCounter");
-  if (counter) counter.textContent = "Arvaukset: 0 / " + maxGuesses;
+  updateGuessCounter();
+  updateStreakDisplay();
 });
 
 // --- Päivän pelaajan päivämääräfunktio ---
@@ -23,7 +31,14 @@ function getTodayString() {
   return `${d.getFullYear()}-${d.getMonth() + 1}-${d.getDate()}`;
 }
 
-// --- Pelaajien lataus + päivän pelaaja ---
+// --- Pelaajan arpominen unlimited-moodiin ---
+function pickNewSolution() {
+  const index = Math.floor(Math.random() * players.length);
+  solution = players[index];
+  console.log("Uusi pelaaja arvottu:", solution.name);
+}
+
+// --- Pelaajien lataus ---
 fetch("players.json")
   .then(response => response.json())
   .then(data => {
@@ -33,24 +48,26 @@ fetch("players.json")
       number: p.number === null ? null : Number(p.number)
     }));
 
+    loadSolution();
+  })
+  .catch(err => console.error("Virhe players.json latauksessa:", err));
+
+// --- Moodin mukaan valitaan pelaaja ---
+function loadSolution() {
+  if (unlimitedMode) {
+    pickNewSolution();
+  } else {
     const day = new Date().getDate();
     const index = day % players.length;
     solution = players[index];
+  }
 
-    console.log("Päivän pelaaja:", solution.name);
-  })
-  .catch(err => {
-    console.error("Virhe players.json latauksessa:", err);
-  });
+  console.log("Valittu pelaaja:", solution.name);
+}
 
 // --- Arvausfunktio ---
 function makeGuess() {
   const guessName = input.value.trim();
-
-  if (guessCount >= maxGuesses) {
-    alert("Arvausraja täynnä! Oikea vastaus oli: " + solution.name);
-    return;
-  }
 
   if (guessName === "") {
     alert("Kirjoita pelaajan nimi");
@@ -58,7 +75,7 @@ function makeGuess() {
   }
 
   if (!solution) {
-    alert("Peli latautuu vielä, yritä hetken päästä uudestaan.");
+    alert("Peli latautuu vielä, yritä hetken päästä.");
     return;
   }
 
@@ -77,21 +94,78 @@ function makeGuess() {
   }
 
   addGuessRow(guessedPlayer);
-
   guessCount++;
-
-  const counter = document.getElementById("guessCounter");
-  if (counter) counter.textContent = "Arvaukset: " + guessCount + " / " + maxGuesses;
-
+  updateGuessCounter();
   input.value = "";
 
-  if (guessedPlayer.name === solution.name) {
-    alert("Oikein! Löysit päivän pelaajan!");
+  // --- Unlimited Mode (5 arvauksen raja) ---
+  if (unlimitedMode) {
+    if (guessedPlayer.name === solution.name) {
+      unlimitedStreak++;
+      updateStreakDisplay();
+      alert("Oikein! Oikein arvattua pelaajaa putkeen: " + unlimitedStreak);
+    } else {
+      alert("Väärin! Oikea oli: " + solution.name + ". Streak nollattu.");
+      unlimitedStreak = 0;
+      updateStreakDisplay();
+    }
+
+    if (guessCount >= unlimitedMaxGuesses) {
+      alert("5 arvauksen raja täynnä! Uusi pelaaja arvottu.");
+      resetBoard();
+      pickNewSolution();
+      return;
+    }
+
+    return;
   }
 
-  if (guessCount >= maxGuesses) {
+  // --- Daily Mode (8 arvauksen raja) ---
+  if (guessedPlayer.name === solution.name) {
+    dailyStreak++;
+    localStorage.setItem("dailyStreak", dailyStreak);
+    updateStreakDisplay();
+    alert("Oikein! Päivää putkeen oikein: " + dailyStreak);
+  }
+
+  if (guessCount >= dailyMaxGuesses) {
     alert("Arvausraja täynnä! Oikea vastaus oli: " + solution.name);
   }
+}
+
+// --- Laskurin päivitys ---
+function updateGuessCounter() {
+  const counter = document.getElementById("guessCounter");
+
+  if (unlimitedMode) {
+    counter.textContent = "Arvaukset: " + guessCount + " / " + unlimitedMaxGuesses;
+  } else {
+    counter.textContent = "Arvaukset: " + guessCount + " / " + dailyMaxGuesses;
+  }
+}
+
+// --- Streak-näytön päivitys ---
+function updateStreakDisplay() {
+  const dailyBox = document.getElementById("dailyStreakBox");
+  const unlimitedBox = document.getElementById("unlimitedStreakBox");
+
+  if (unlimitedMode) {
+    dailyBox.style.display = "none";
+    unlimitedBox.style.display = "block";
+    unlimitedBox.textContent = "Oikein arvattua pelaajaa putkeen: " + unlimitedStreak;
+  } else {
+    unlimitedBox.style.display = "none";
+    dailyBox.style.display = "block";
+    dailyBox.textContent = "Päivää putkeen oikein: " + dailyStreak;
+  }
+}
+
+// --- Resetointi unlimitedissä ---
+function resetBoard() {
+  document.getElementById("guesses").innerHTML = "";
+  headerAdded = false;
+  guessCount = 0;
+  updateGuessCounter();
 }
 
 // --- Värilogiikka ---
@@ -150,7 +224,7 @@ function addGuessRow(player) {
   container.appendChild(row);
 }
 
-// --- Autocomplete pelaajahaku ---
+// --- Autocomplete ---
 input.addEventListener("input", () => {
   const text = input.value.toLowerCase();
 
@@ -186,17 +260,35 @@ input.addEventListener("input", () => {
   suggestionsBox.style.display = "block";
 });
 
-// --- Piilota lista kun klikataan muualle ---
+// --- Piilota lista ---
 document.addEventListener("click", (e) => {
   if (e.target !== input) {
     suggestionsBox.style.display = "none";
   }
 });
 
-// --- ENTER-AKTIVOINTI ---
+// --- ENTER ---
 document.addEventListener("keydown", function(e) {
   if (e.key === "Enter") {
     makeGuess();
   }
 });
 
+// --- Moodipainikkeet ---
+document.getElementById("dailyBtn").addEventListener("click", () => {
+  unlimitedMode = false;
+  unlimitedStreak = 0;
+  updateStreakDisplay();
+  resetBoard();
+  loadSolution();
+  alert("Daily Mode käytössä");
+});
+
+document.getElementById("unlimitedBtn").addEventListener("click", () => {
+  unlimitedMode = true;
+  unlimitedStreak = 0;
+  updateStreakDisplay();
+  resetBoard();
+  pickNewSolution();
+  alert("Unlimited Mode käytössä (5 arvauksen raja)");
+});
